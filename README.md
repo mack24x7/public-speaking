@@ -15,6 +15,8 @@ Comments should be enabled here in the repository, and you can always get in con
 ## Authors
 
 * **Joe Mack** - *Sole Proprietor*
+
 [Technology and Leadership Blog](http://mack24x7.com)
+
 [Public Speaking Page](http://mack24x7.com/speaking)
 
